@@ -1,0 +1,30 @@
+div{
+    display: inline-block;
+    
+
+}
+.flag{
+    border: black;
+    border-style: solid;
+display: inline-flex;
+
+}
+.a{
+    background-color:#0067b3 ;
+    height: 300px;
+    width: 100px
+
+
+}
+.b{
+    background-color:#fff117 ;
+    height: 300px;
+    width: 100px
+
+}
+.c{
+    background-color:#ff0000 ;
+    height: 300px;
+    width: 100px
+
+}
